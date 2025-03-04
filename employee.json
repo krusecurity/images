@@ -1,0 +1,37 @@
+{
+  "employee": {
+    "name": "Gunakala Rajesh",
+    "designation": "Security Engineer",
+    "employee_id": "32071",
+    "date_of_joining": "01/07/2023"
+  },
+  "pay_details": {
+    "pay_period": "June 2025",
+    "pay_date": "10/07/2025",
+    "net_pay": 25000
+  },
+  "earnings": {
+    "basic_pay": 10000,
+    "hra": 4000,
+    "conveyance_allowance": 2000,
+    "education_allowance": 800,
+    "medical_allowance": 800,
+    "special_allowance": 7400
+  },
+  "deductions": {
+    "pf_employee": 0,
+    "pf_employer": 0,
+    "professional_tax": 0
+  },
+  "contact": {
+    "phone": "+91 7731886213",
+    "email": "rajeshgunakala@cinereoustechnologies.com",
+    "address": "1-55, Kanchana Putturu, B.N Kandriga, Chittoor, Andhra Pradesh – 517640"
+  },
+  "company": {
+    "name": "Cinereous Technologies",
+    "contact": "+91 95335 55995, 040-31653936",
+    "email": "hr@cinereoustechnologies.com",
+    "address": "SURVEY NO.74&75. DWELLINGS, Jaihind Enclave, Plot.3.A, Madhapur, Hyderabad, Telangana 500081"
+  }
+}
